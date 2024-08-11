@@ -1,6 +1,7 @@
 {
 	"name": "Solana-Volume-Bot",
 	"version": "1.0.0",
+	"type": "module",
 	"description": "https://t.me/benorizz0",
 	"main": "index.js",
 	"scripts": {
